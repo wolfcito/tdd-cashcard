@@ -5,7 +5,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.json.JsonTest;
 import org.springframework.boot.test.json.JacksonTester;
 import org.springframework.context.annotation.Description;
-import solutions.mundovirtual.cashcard.CashCard;
+import solutions.mundovirtual.cashcard.domain.CashCard;
+
 
 import java.io.IOException;
 
